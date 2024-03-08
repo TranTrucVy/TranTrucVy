@@ -47,6 +47,4 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrucVy&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
-# 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/venn.dev15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trantrucvy/) 
 
