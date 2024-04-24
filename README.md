@@ -2,7 +2,6 @@
 <h2 align="center">Hi, I'm Tran Truc Vy</h2>
 
 - I’m currently working at **TDTU**
-- Double Major: Computer Science and Software Engineer
 ---
 # 💻Tech Stack
 ### Languages Programing:
