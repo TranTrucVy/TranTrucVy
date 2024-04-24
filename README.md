@@ -1,5 +1,5 @@
 # 💫About Me :
-<h2 align="center">Hi, I'm </h2>
+<h2 align="center">Hi, I'm Cindy</h2>
 
 - I’m currently working at **TDTU**
 ---
