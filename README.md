@@ -1,5 +1,5 @@
 # 💫About Me :
-<h2 align="center">Hi, I'm Tran Truc Vy</h2>
+<h2 align="center">Hi, I'm </h2>
 
 - I’m currently working at **TDTU**
 ---
