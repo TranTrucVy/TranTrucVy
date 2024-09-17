@@ -44,6 +44,6 @@
 
 ---
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyDev15&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrucVy&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 
