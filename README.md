@@ -11,6 +11,7 @@
 • Selenium Automation with Python by HCMUS 11/2022 – 01/2023
 • LogiGear Certified Test Professional I by CS Center and LogiGear VN 08/2022 – 10/2022
 • Web Application Programming with HTML5, CSS3, jQuery, Bootstrap by HCMUS 08/2022
+
 ---
 # 💻Tech Stack
 ### Languages Programing:
