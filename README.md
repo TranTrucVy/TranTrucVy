@@ -3,8 +3,8 @@
 - Date of birth: 15/07/2003<br>
 - University: Ton Duc Thang University<br>
 - Major 1: Computer Science (graduated 09/2024) and GPA: 8.29<br>
-- Scholarship in university<br>
 - Certificate<br>
+• Scholarship in university<br>
 • GeoComply Scholarship 06/2024<br>
 • Student of 5 Merits at the University level 03/2024<br>
 • Agile Development & Scrum Framework Course by TechBase VN 05/2023<br>
