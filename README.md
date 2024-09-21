@@ -1,9 +1,9 @@
 # 💫About Me :
 <h2 align="center">Hi, I'm TranTrucVy</h2>
-- Date of birth: 15/07/2003\\
-- University: Ton Duc Thang University\\
-- Major 1: Computer Science (graduated 09/2024) and GPA: 8.29
-- Scholarship in university
+- Date of birth: 15/07/2003<br>
+- University: Ton Duc Thang University<br>
+- Major 1: Computer Science (graduated 09/2024) and GPA: 8.29<br>
+- Scholarship in university<br>
 - Certificate
 • GeoComply Scholarship 06/2024
 • Student of 5 Merits at the University level 03/2024
