@@ -1,7 +1,16 @@
 # 💫About Me :
 <h2 align="center">Hi, I'm TranTrucVy</h2>
-
-- I’m currently working at **TDTU**
+- Date of birth: 15/07/2003
+- University: Ton Duc Thang University
+- Major 1: Computer Science (graduated 09/2024) and GPA: 8.29
+- Scholarship in university
+- Certificate
+• GeoComply Scholarship 06/2024
+• Student of 5 Merits at the University level 03/2024
+• Agile Development & Scrum Framework Course by TechBase VN 05/2023
+• Selenium Automation with Python by HCMUS 11/2022 – 01/2023
+• LogiGear Certified Test Professional I by CS Center and LogiGear VN 08/2022 – 10/2022
+• Web Application Programming with HTML5, CSS3, jQuery, Bootstrap by HCMUS 08/2022
 ---
 # 💻Tech Stack
 ### Languages Programing:
