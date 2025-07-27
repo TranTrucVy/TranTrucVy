@@ -1,7 +1,8 @@
 # 💫About Me :
 <h2 align="center">Hi, I'm TranTrucVy</h2>
 - University: Ton Duc Thang University<br>
-- Major 1: Computer Science (graduated 09/2024) and GPA: 8.29<br>
+- Major 1: Computer Science and GPA: 8.29<br>
+- Major 2: Software Engineer and GPA: 8.35<br>
 - Certificate<br>
 • Scholarship in university<br>
 • GeoComply Scholarship 06/2024<br>
